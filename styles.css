@@ -1,0 +1,138 @@
+/* Edits Gemeinhardt*/
+.navbar-brand {
+    font-family: 'Fredericka the Great','Oregano','Buda', arial, sans-serif;
+    font-size: 31px;
+    text-transform: uppercase;
+    line-height: 20px;
+    margin-bottom:5px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #14002c;
+    text-shadow: 1px 2px 4px #92927d;
+}
+
+.navbar-brand a:hover {
+    color:#18082b;
+}
+
+/*Edits Rebecca*/
+#Rebecca {
+    font-size: 50px;
+    letter-spacing: 3px;
+    margin-top:15px;
+    font-weight: 300;
+}
+/*Header background and border*/
+.navbar {
+    border-bottom: 2px solid #ffffff;
+    background-color: #fdfdf4;
+    box-shadow: 5px -3px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    justify-content: center;
+}
+
+/*Styles the top three link buttons*/
+.nav-item a {
+    color: #14002c;
+}
+
+.nav-item a:hover {
+    color:#325b6e;
+}
+
+
+body {
+      background: linear-gradient(to bottom, #688b9b, #181227);
+  }
+
+/* this adds spaces between all the elements on the page*/
+.main {
+    margin: 30px;
+
+}
+
+
+.card { 
+    background-color: #fdfdf4;
+}
+
+h3 {
+    font-family: 'Fredericka the Great','Oregano','Buda', arial, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding:10px 10px 0px 10px;
+    text-shadow: 1px 2px 4px #92927d;
+    font-size: 25px;
+}
+
+a {
+    color: #18082b;
+}
+
+a:hover {
+    color: #325b6e;
+}
+
+.card {
+    border: 0px none;
+    padding: 0px;
+    justify-content: center;
+}
+
+.card-body {
+    padding: 10px 10px 10px 10px;
+}
+
+h2 {
+    font-family: 'Fredericka the Great','Oregano','Buda', arial, sans-serif;
+    text-transform: uppercase;
+    text-align: left;
+    padding-top:10px;
+    text-shadow: 1px 2px 4px #92927d;
+    font-size: 35px;
+    padding-left: 20px;
+    
+}
+
+p {
+    padding-top: 25px;
+
+}
+
+.img-thumbnail {
+    border: 0px none;
+    margin-top:25px;
+}
+
+.icon {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.fa-linkedin {
+   margin-right:30px;
+   margin-left:30px;
+}
+
+.contents {
+    margin: 0px 20px 15px 20px;
+}
+
+.navbar-text {
+    font-size: 11px;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #14002c;
+    border: 1px solid #688b9b;
+}
+
+.btn-primary:hover {
+    background-color: #325b6e;
+}
+
+#copyright {
+    font-size: 11px;
+}
