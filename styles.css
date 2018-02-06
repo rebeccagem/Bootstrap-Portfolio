@@ -48,6 +48,7 @@ body {
 /* this adds spaces between all the elements on the page*/
 .main {
     margin: 30px;
+    margin-bottom: 200px;
 
 }
 
