@@ -137,3 +137,7 @@ p {
 #copyright {
     font-size: 11px;
 }
+
+.img-thumbnail {
+    background-color: #325b6e;
+}
